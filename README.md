@@ -3,7 +3,7 @@
 <h2>Description</h2>
 This project enables the user to create new notes and save them on the site.
 
-https://ayay2002.github.io/NoteTaker/
+https://note-takerr-d4646bb0b187.herokuapp.com/
 
 ![Deployed Site](./site.png)
 
