@@ -23,7 +23,7 @@ const writeToFile = (destination, content) =>
 
 const readFromFile = util.promisify(fs.readFile);
 
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 const server = express();
 
 // making public folder static for users

@@ -3,6 +3,8 @@
 <h2>Description</h2>
 This project enables the user to create new notes and save them on the site.
 
+https://ayay2002.github.io/NoteTaker/
+
 ![Deployed Site](./site.png)
 
 <h2>Table Of Contents</h2>
